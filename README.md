@@ -1,4 +1,4 @@
-# [布局优化深水区，异步测量](https://github.com/genius158/AsyncMeasureTest)
+# [布局优化，异步测量](https://github.com/genius158/AsyncMeasureTest)
 
 布局优化，如果做过相关的内容、或者看过相关的博客，那么过渡绘制、布局层级、viewStub、布局动态化等关键词，我们已经见过很多次，下面来聊聊一个不太常见的优化方案，异步测量。
 
